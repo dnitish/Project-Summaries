@@ -1,0 +1,25 @@
+1. https://github.com/dnitish/timesheetmanagement
+
+This project is made with Angular [ Angular is a TypeScript-based free and open-source web application framework ] and Loopback [ LoopBack is a highly-extensible, open-source Node.js framework that enables you to create dynamic end-to-end REST APIs with little or no coding. ] and Angular Material for Design Components.
+
+The entire project has been containerized in Docker with a MySQL database. Login Functionality implemented through NodeMailer.
+
+The main focus of the project is to enable a timesheet management system for employees to list out tasks and ID them by labels, for eg. in progress, completed etc. There are 2 views, an admin view and the employee view. The admin can assign tasks to employees and has full view of their progress.
+
+2. https://github.com/dnitish/ekayu-d6416
+
+Ekayu is a JAMStack site built with Gatsby [ GatsbyJS is a React-based, GraphQL powered, static site generator. ], maintained using the StackBit CMS and hosted on Netlify using Continous Deployment through the GIT protocol, cart functionality implemeted with SnipCart SDK. Site it live at https://ekayu-d6416.netlify.app/
+
+3. https://github.com/dnitish/ProjectShowcase
+
+DBMS project to Display details of other projects in a abstract minimalistic way. XAMPP PHP for BackEnd HTML CSS JS for FrontEnd
+
+Explanation at https://github.com/dnitish/ProjectShowcase/blob/master/final.pdf [first page]
+
+4. https://github.com/dnitish/unchained
+
+College Discussion Forum. A web project for college. A project that for data sharing and forum discussion boards. Allows users to create a user account. Users can use the forums and upload and share data on the forums. Buily with Django and MySQL.
+
+5. https://github.com/dnitish/Graphics-Editor
+
+This program is a simple paint tool which is similar to the Paint of Microsoft. It is written in the language C++ with OpenGL/GLUT.
